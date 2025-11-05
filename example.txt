@@ -1,0 +1,19 @@
+Enter number of cities and roads: 5 7
+
+Enter 5 city names:
+  City 1: Mumbai
+  City 2: Delhi
+  City 3: Bangalore
+  City 4: Chennai
+  City 5: Kolkata
+
+Enter 7 roads (format: SourceCity DestCity Distance):
+  Road 1: Mumbai Delhi 1400
+  Road 2: Mumbai Bangalore 980
+  Road 3: Delhi Bangalore 2150
+  Road 4: Delhi Kolkata 1470
+  Road 5: Bangalore Chennai 350
+  Road 6: Chennai Kolkata 1670
+  Road 7: Mumbai Chennai 1340
+
+Enter source city: Mumbai
